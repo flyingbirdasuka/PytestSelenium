@@ -1,0 +1,49 @@
+2022-11-27 12:12:50,725 :INFO : test_1 :first passed
+2022-11-27 12:12:50,725 :INFO : test_1 :dropdown page
+2022-11-27 12:12:53,036 :INFO : test_1 :slider page
+2022-11-27 12:12:57,597 :INFO : test_1 :first slider point = 62
+2022-11-27 12:12:57,654 :INFO : test_1 :totalSum = 100
+2022-11-27 12:12:58,114 :INFO : test_1 :input page
+2022-11-27 12:13:01,061 :INFO : test_1 :selected city = Amsterdam
+2022-11-27 12:13:01,557 :INFO : test_1 :count page
+2022-11-27 12:13:01,752 :INFO : test_1 :className of this 6th checkboxgraphical_select checkbox
+2022-11-27 12:13:01,753 :INFO : test_1 :True
+2022-11-27 12:13:02,795 :INFO : test_1 :Element is not clickable
+2022-11-27 12:13:03,219 :INFO : test_1 :finished :)
+2022-11-27 12:17:14,743 :INFO : test_1 :first passed
+2022-11-27 12:17:14,744 :INFO : test_1 :dropdown page
+2022-11-27 12:17:16,993 :INFO : test_1 :slider page
+2022-11-27 12:17:21,567 :INFO : test_1 :first slider point = 62
+2022-11-27 12:17:21,628 :INFO : test_1 :totalSum = 100
+2022-11-27 12:17:22,216 :INFO : test_1 :input page
+2022-11-27 12:17:25,207 :INFO : test_1 :selected city = Amsterdam
+2022-11-27 12:17:25,699 :INFO : test_1 :count page
+2022-11-27 12:17:25,891 :INFO : test_1 :className of this 6th checkboxgraphical_select checkbox
+2022-11-27 12:17:25,891 :INFO : test_1 :True
+2022-11-27 12:17:26,956 :INFO : test_1 :Element is not clickable
+2022-11-27 12:17:27,387 :INFO : test_1 :finished :)
+2022-11-27 12:19:18,398 :INFO : test_1 :first passed
+2022-11-27 12:19:18,399 :INFO : test_1 :dropdown page
+2022-11-27 12:19:20,161 :INFO : test_1 :slider page
+2022-11-27 12:19:24,723 :INFO : test_1 :first slider point = 62
+2022-11-27 12:19:24,960 :INFO : test_1 :totalSum = 100
+2022-11-27 12:19:25,578 :INFO : test_1 :input page
+2022-11-27 12:19:27,958 :INFO : test_1 :selected city = Amsterdam
+2022-11-27 12:19:28,435 :INFO : test_1 :count page
+2022-11-27 12:19:29,516 :INFO : test_1 :className of this 6th checkboxgraphical_select checkbox
+2022-11-27 12:19:29,517 :INFO : test_1 :True
+2022-11-27 12:19:29,522 :INFO : test_1 :Element is not clickable
+2022-11-27 12:19:29,723 :INFO : test_1 :finished :)
+2022-11-27 12:20:19,446 :INFO : test_1 :first passed
+2022-11-27 12:20:19,446 :INFO : test_1 :dropdown page
+2022-11-27 12:20:21,700 :INFO : test_1 :slider page
+2022-11-27 12:20:26,268 :INFO : test_1 :first slider point = 62
+2022-11-27 12:20:26,332 :INFO : test_1 :totalSum = 100
+2022-11-27 12:20:26,768 :INFO : test_1 :input page
+2022-11-27 12:20:29,812 :INFO : test_1 :selected city = Amsterdam
+2022-11-27 12:20:30,482 :INFO : test_1 :count page
+2022-11-27 12:20:30,637 :INFO : test_1 :className of this 6th checkboxgraphical_select checkbox
+2022-11-27 12:20:30,637 :INFO : test_1 :True
+2022-11-27 12:20:31,696 :INFO : test_1 :Element is not clickable
+2022-11-27 12:20:32,120 :INFO : test_1 :finished :)
+

@@ -1,0 +1,36 @@
+1669547938412	geckodriver	INFO	Listening on 127.0.0.1:51347
+1669547938646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51348" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s0/knlbkw8s3lzbbxyd9_zqj40c0000gn/T/rust_mozprofileI3Gnzi"
+2022-11-27 12:19:02.933 plugin-container[20472:785001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 12:19:02.933 plugin-container[20472:785001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51348
+2022-11-27 12:19:03.109 plugin-container[20472:785001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 12:19:03.109 plugin-container[20472:785001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 12:19:03.109 plugin-container[20472:785003] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 12:19:03.109 plugin-container[20472:785003] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:51348/devtools/browser/9881f323-c99e-4e2d-a18d-d3743844100f
+[2022-11-27T11:19:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-11-27T11:19:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-11-27T11:19:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+1669547954436	geckodriver	INFO	Listening on 127.0.0.1:51384
+1669547954848	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51385" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s0/knlbkw8s3lzbbxyd9_zqj40c0000gn/T/rust_mozprofileko9ksc"
+2022-11-27 12:19:15.364 plugin-container[20498:785522] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 12:19:15.365 plugin-container[20498:785522] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 12:19:15.369 plugin-container[20498:785522] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 12:19:15.369 plugin-container[20498:785522] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 12:19:15.370 plugin-container[20498:785520] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 12:19:15.370 plugin-container[20498:785520] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669547955382	Marionette	INFO	Marionette enabled
+1669547955414	Marionette	INFO	Listening on port 51392
+Read port: 51392
+WebDriver BiDi listening on ws://127.0.0.1:51385
+1669547955759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s0/knlbkw8s3lzbbxyd9_zqj40c0000gn/T/rust_mozprofileko9ksc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51385/devtools/browser/f4c6fe55-878e-4460-8f96-b4bedbf38244
+1669547957733	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://eu.surveyme.online/testLHSelenium/graphics/condropdown/condropdown.js, line 12: TypeError: next is undefined
+JavaScript error: https://eu.surveyme.online/testLHSelenium/graphics/condropdown/condropdown.js, line 12: TypeError: next is undefined
+JavaScript error: https://eu.surveyme.online/testLHSelenium/graphics/condropdown/condropdown.js, line 12: TypeError: next is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eu.surveyme.online."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eu.surveyme.online."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eu.surveyme.online."
+1669547969725	Marionette	INFO	Stopped listening on port 51392
